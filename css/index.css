@@ -1,0 +1,22 @@
+:root{
+    --light-text-color: #ffffff;
+    --dark-text-color: #2C2C2C;
+}
+
+body{
+    max-width: 980px;
+    margin: auto;
+    background-color: bisque;
+    font-family: Roboto, sans-serif;
+}
+
+.header-background{
+    width: 100%;
+    display: ;
+    background-image: url(../img/header-backround.png);
+    background-size: cover;
+    min-width: 100vh;
+    background-position: center;
+}
+
+
